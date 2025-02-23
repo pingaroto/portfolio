@@ -1,22 +1,27 @@
-# Portfólio
+# 📊 Portfólio  
 
-Olá! Sou um analista financeiro especializado em análise de dados e automação. Aqui estão alguns dos meus projetos:
+Olá! Sou um analista financeiro especializado em **análise de dados e automação**. Aqui estão alguns dos meus principais projetos:  
 
-##  Projetos Destacados
+## Projetos Destacados  
 
-### 📈 Conciliação de Transações Pix - Sistema x Extrato Bancário
-- 🔹 **Objetivo:** Verificar se todas as transções PIX foram lançadas no sistema, geralmente utilizado para uma volumetria de 2mi+ de transações por dia.
-- 🔹 **Tecnologias:** Python, Pandas e Polars
-- 🔹 [🔗 Código e Dados](https://github.com/seu-usuario/portfolio/tree/main/analise_pix)
+### 📈 Conciliação de Transações Pix - Sistema x Extrato Bancário  
+- 🔹 **Objetivo:** Verificar se todas as transações PIX foram lançadas corretamente no sistema. Projetado para processar mais de **2 milhões de transações por dia**.  
+- 🔹 **Tecnologias:** Python, Pandas e Polars.  
+- 🔹 [🔗 Código e Dados](https://github.com/pingaroto/portifolio/tree/main/Concilia%C3%A7%C3%A3o)  
 
-### 📈 Criação de XML - Comunicação SISCOAF
-- 🔹 **Objetivo:** Criação de um XML através de dados obtidos de um arquivo .XLSX, nos padrões estabelecidos pelo sistema COAF. Importação e cancelamento de lote.
-- 🔹 **Tecnologias:** Python, Pandas.
-- 🔹 [🔗 Código e Dados](https://github.com/seu-usuario/portfolio/tree/main/analise_pix)
+### 📄 Criação de XML - Comunicação SISCOAF  
+- 🔹 **Objetivo:** Geração de arquivos XML a partir de dados extraídos de planilhas **XLSX**, seguindo os padrões do **SISCOAF** para importação e cancelamento de lotes.  
+- 🔹 **Tecnologias:** Python, Pandas.  
+- 🔹 [🔗 Código e Dados](https://github.com/pingaroto/portifolio/tree/main/XML)  
 
-### 📊 Dashboard Power BI - Análise de Vendas
-- 🔹 **Objetivo:** Dashboard para análise de vendas num geral da empresa, sendo possivel comparar com periodos anteriores e com ranking de vendendores e analise individual de seus respectivos desempenhos.
-- 🔹 **Tecnologias:** Power BI, DAX, FIGMA.
-- 🔹 [🔗 Arquivo .pbix](https://github.com/seu-usuario/portfolio/tree/main/powerbi_dashboard)
+### 🌍 Requisição via API - Cotações de Câmbio/Criptomoedas  
+- 🔹 **Objetivo:** Requisição de API para obter cotações de câmbio a cada **1 minuto**. Integração com **Slack Bot**, permitindo a geração automática de gráficos ao mencionar o bot em um canal.  
+- 🔹 **Tecnologias:** Python, Pandas, API REST.  
+- 🔹 [🔗 Código e Dados](https://github.com/pingaroto/portifolio/tree/main/API)  
 
-📫 **Contato:** [LinkedIn](https://linkedin.com/in/seu-usuario) | ✉️ seu-email@email.com
+### 📊 Dashboard Power BI - Análise de Vendas  
+- 🔹 **Objetivo:** Desenvolvimento de um **dashboard interativo** para análise de vendas, permitindo comparação entre períodos, ranking de vendedores e análise individual de desempenho.  
+- 🔹 **Tecnologias:** Power BI, DAX, Figma.  
+- 🔹 [🔗 Arquivo .pbix](https://github.com/pingaroto/portifolio/tree/main/Power%20BI)  
+
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/seu-usuario) | ✉️ augustomeyer00@gmail.com  
