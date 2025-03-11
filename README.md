@@ -17,6 +17,11 @@ Olá! Sou um analista financeiro especializado em **análise de dados e automaç
 ### 🌍 Requisição via API - Cotações de Câmbio/Criptomoedas  
 - 🔹 **Objetivo:** Requisição de API para obter cotações de câmbio a cada **1 minuto**. Integração com **Slack Bot**, permitindo a geração automática de gráficos ao mencionar o bot em um canal.  
 - 🔹 **Tecnologias:** Python, Pandas, API REST, Matplotlib, Slack 
+- 🔹 [🔗 Código e Dados](https://github.com/pingaroto/portifolio/tree/main/API)
+
+### 🌍 Requisição via API - Pokédex 
+- 🔹 **Objetivo:** Consulta aos dados de cada pokémon - envio ao canal do slack de dados.  
+- 🔹 **Tecnologias:** Python, Slack
 - 🔹 [🔗 Código e Dados](https://github.com/pingaroto/portifolio/tree/main/API)  
 
 ### 📊 Dashboard Power BI - Análise de Vendas  
